@@ -151,13 +151,13 @@ namespace imageObjDetect
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(856, 633);
+            this.ClientSize = new System.Drawing.Size(854, 634);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.picImage);
             this.Controls.Add(this.btnDetect);
             this.Controls.Add(this.btnBrowse);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "OK/NGDecision";
             ((System.ComponentModel.ISupportInitialize)(this.picImage)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
