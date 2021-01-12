@@ -1,3 +1,4 @@
-packages
-opencv_world411.dll
-yolov2-tiny-voc.weights
+# ignore all files in directory
+packages/
+imageObjDetect/bin/Debug/*.weights
+imageObjDetect/bin/Debug/x64/opencv_world411.dll
